@@ -1,1 +1,1 @@
-# 1d-acoustics-tempgradients-pinn
+# Predict 1D acoustic field with temperature gradient using PINNs
